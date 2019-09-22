@@ -1,0 +1,15 @@
+com\kgc\service\Impl\StuServiceImpl.class
+com\kgc\pojo\StudentExample$Criteria.class
+com\kgc\pojo\Student.class
+com\kgc\pojo\ClassesExample$Criterion.class
+com\kgc\mapper\ClassesMapper.class
+com\kgc\pojo\ClassesExample$GeneratedCriteria.class
+com\kgc\pojo\ClassesExample.class
+com\kgc\mapper\StudentMapper.class
+com\kgc\pojo\Classes.class
+com\kgc\pojo\StudentExample$Criterion.class
+com\kgc\pojo\ClassesExample$Criteria.class
+com\kgc\pojo\PageBean.class
+com\kgc\pojo\StudentExample$GeneratedCriteria.class
+com\kgc\pojo\StudentExample.class
+com\kgc\service\IStuService.class
